@@ -17,7 +17,7 @@
 
 # Deklinator [DOWNLOAD THE INSTALLER HERE!](https://www.dropbox.com/s/nau2d4kbxfy5ja1/Deklinator_setup.exe?dl=0)
 
-
+## Check out the video if you speak Portuguese
 
 [![Check out the video if you speak Portuguese](https://img.youtube.com/vi/I4yrXh3zq7s/hqdefault.jpg)](https://www.youtube.com/embed/I4yrXh3zq7s)
 

@@ -17,7 +17,9 @@
 
 # Deklinator [DOWNLOAD THE INSTALLER HERE!](https://www.dropbox.com/s/nau2d4kbxfy5ja1/Deklinator_setup.exe?dl=0)
 
+Check out the video if you speak Portuguese:
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I4yrXh3zq7s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## What can you do with it?
 

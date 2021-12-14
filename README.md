@@ -19,7 +19,8 @@
 
 Check out the video if you speak Portuguese:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I4yrXh3zq7s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video src='https://www.youtube.com/embed/I4yrXh3zq7s' width=560/>
+
 
 ## What can you do with it?
 

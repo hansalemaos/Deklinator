@@ -19,7 +19,7 @@
 
 Check out the video if you speak Portuguese:
 
-<video src='https://www.youtube.com/embed/I4yrXh3zq7s' width=560/>
+<video src=https://www.youtube.com/embed/I4yrXh3zq7s width=180/>
 
 
 ## What can you do with it?
